@@ -1,0 +1,12 @@
+{
+  "name": "js_75mins",
+  "version": "1.0.0",
+  "description": "Course notes and files from this video:\r JavaScript Speed Course - Learn JavaScript in ~75 Minutes\r https://youtu.be/TjjKcgtlsY8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
