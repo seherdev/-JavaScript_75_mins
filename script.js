@@ -215,7 +215,7 @@ const object2 = {
 obj.say(); // undefined (çünkü arrow function kendi this'ini bağlamaz)
 
 
-//PROMISES --DAHA UZUN VID IZLEMEYI ONERIYO
+//PROMISES --DAHA UZUN VID IZLEMEYI ONERIYO BU KONUDA
 
 const myPromise = new Promise((resolve, reject) => {
     // Asynchronous operation
